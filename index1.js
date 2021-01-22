@@ -1,21 +1,21 @@
 // Array containing details of upcoming events
 
 
-// const data = [
-//     {
-//         id:0,
-//         pic: "upcoming.jpg",
-//         time:"Tuesday, 19 January 6:00 pm",
-//         title:"Let's App It",
-//         venue:"Youtube",
-//         link:"https://dsc.community.dev/events/details/developer-student-clubs-banasthali-university-presents-lets-app-it/"
+const data = [
+    {
+        id:0,
+        pic: "images/upcoming1.png",
+        time:"Tuesday, 26 January 6:00 pm",
+        title:"DSC DRUM ROLLS",
+        venue:"Youtube",
+        link:"https://dsc.community.dev/events/details/developer-student-clubs-banasthali-university-presents-dsc-drum-rolls-orientation-session/#/"
     
-//     }
-// ];
+    }
+];
 
 // If there are no upcoming events set data = 0
 
-const data = 0;
+// const data = 0;
 
 if(data==0){
   var body = document.querySelector(".outer-div");
