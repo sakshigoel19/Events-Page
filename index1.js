@@ -10,7 +10,25 @@ const data = [
         venue:"Youtube",
         link:"https://dsc.community.dev/events/details/developer-student-clubs-banasthali-university-presents-dsc-drum-rolls-orientation-session/#/"
     
-    }
+    },
+    {
+      id:0,
+      pic: "images/upcoming1.png",
+      time:"Thursday, 28 January 6:00 pm",
+      title:"DSC Solution Challenge Orientation",
+      venue:"Youtube",
+      link:"https://dsc.community.dev/events/details/developer-student-clubs-banasthali-university-presents-dsc-drum-rolls-orientation-session/#/"
+  
+  },
+  {
+    id:0,
+    pic: "images/upcoming1.png",
+    time:"Saturday, 30 January 6:00 pm",
+    title:"LinkedIn Workshop",
+    venue:"Youtube",
+    link:"https://dsc.community.dev/events/details/developer-student-clubs-banasthali-university-presents-dsc-drum-rolls-orientation-session/#/"
+
+}
 ];
 
 // If there are no upcoming events set data = 0

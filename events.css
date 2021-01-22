@@ -184,6 +184,7 @@ body {
 }
 
 .card-title {
+  font-size: 1.4rem;
   text-align: center;
   margin-top: 3px;
 }
