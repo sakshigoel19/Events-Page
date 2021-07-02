@@ -25,3 +25,8 @@ Let's take a look at our web page.
 https://user-images.githubusercontent.com/61665348/124266324-72853380-db54-11eb-8df8-bff091c152bf.mp4
 
 
+### Contributors
+<p align="left">
+<a href="https://github.com/sakshigoel19"><img width="72px" src="https://avatars.githubusercontent.com/u/61665348?s=60&amp;v=4"></a>
+<a href="https://github.com/v-vanisha"><img width="72px" src="https://avatars.githubusercontent.com/u/68401881?s=60&amp;u=3eca1b119f89a2f712cbe478c4ce1e213346c309&amp;v=4"></a>
+</p>
