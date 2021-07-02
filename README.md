@@ -17,10 +17,10 @@ Let's take a look at our web page.
 
 * Directory containing all past events 
 
- Pagination to display different events
- Arrange an event in ascending or descending order of event name or date
- Search for an event
- View the event by clicking Read More
+ - Pagination to display different events
+ - Arrange an event in ascending or descending order of event name or date
+ - Search for an event
+ - View the event by clicking Read More
 
 https://user-images.githubusercontent.com/61665348/124266324-72853380-db54-11eb-8df8-bff091c152bf.mp4
 
